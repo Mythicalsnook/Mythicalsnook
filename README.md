@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mythicalsnook
-- 👀 I’m interested in networking, security, privacy and unix related stuff
+- 👀 I’m interested in networking, online security and unix related stuff
 - 📫 Discord: Snook#9999
 
 <!---
